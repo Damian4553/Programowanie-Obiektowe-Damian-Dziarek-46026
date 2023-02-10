@@ -1,0 +1,24 @@
+.black{
+    background: black;
+    width: 24px;
+    height: 100px;
+    float: left;
+    display: inline;
+}
+
+.white{
+    background: white;
+    width: 40px;
+    height: 175px;
+    float: left;
+    display: inline;
+    border: 1px solid black;
+}
+
+
+
+.background{
+    background: chocolate;
+    height: 100%;
+    width: 100%;
+}
